@@ -3,8 +3,11 @@
 <p align="center">
   🔥 Desenvolvedor Full Stack <br />
   💻 React | Node.js | Express | MySQL | Prisma <br />
-  🚀Buscando sempre ser a melhor versão possivel de mim mesmo
-  estando sempre atento as tendencias do mercado. 
+  🚀Buscando sempre ser a melhor versão possivel de mim mesmo.
+  Estando sempre atento as tendencias do mercado.
+  Carrego comigo um ditado que me permitiu sempre continuar aprendendo:
+  "Aquilo que você não sabe, não se preocupe, não tenha medo, pois 
+  você apenas AINDA não sabe"
 </p>
 
 ---
