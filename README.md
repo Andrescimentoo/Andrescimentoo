@@ -1,4 +1,4 @@
-<h1 align="center">Olá! você está vendo agora em sua tela o repositório de: André Olivera do Nascimento!👋</h1>
+<h1 align="center">André Olivera do Nascimento!👋</h1>
 
 <p align="center">
   🔥 Desenvolvedor Full Stack <br />
