@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Este é o repositório de André Olivera do Nascimento!👋</h1>
+<h1 align="center">Olá! você está vendo agora em sua tela o repositório de: André Olivera do Nascimento!👋</h1>
 
 <p align="center">
   🔥 Desenvolvedor Full Stack <br />
@@ -6,8 +6,9 @@
   🚀Buscando sempre ser a melhor versão possivel de mim mesmo.
   Estando sempre atento as tendencias do mercado.
   Carrego comigo um ditado que me permitiu sempre continuar aprendendo:
-  "Aquilo que você não sabe, não se preocupe, não tenha medo, pois 
-  você apenas AINDA não sabe"
+  "Aquilo que você não sabe, não se preocupe, não tenha medo, pois aquilo que você de fato
+  não sabe....você apenas AINDA não sabe."
+  Com essa mentalidade se aprende qualquer coisa.
 </p>
 
 ---
@@ -32,8 +33,8 @@
 ---
 
 ### 📫 Contato
-[![LinkedIn](https://www.linkedin.com/in/andrenacimento?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Gmail](1914andre@gmail.com)
+[[LinkedIn](https://www.linkedin.com/in/andrenacimento?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[[Gmail](1914andre@gmail.com)
 
 ---
 
