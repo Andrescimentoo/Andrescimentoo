@@ -1,34 +1,38 @@
 <h1 align="center">👋 Olá, eu sou o André Oliveira do Nascimento</h1>
 
 <p align="center">
-  💻 Desenvolvedor <strong>Full Stack</strong> em crescimento <br/>
-  🚀 Focado em construir soluções reais com <strong>React | Node.js | Express | MySQL | Prisma</strong>
+  💻 Desenvolvedor <strong>Full Stack</strong><br/> Aqui você conhecerá muitas das minhas métricas registradas ao longo da minha carreira, além de ver na prática como eu resolvo problemas e desenvolvo soluções. Também
+  verá muitos reegistros das tecnologias que eu aprendi ao longo da minha carreira como programador. Obrigado por ter visitado este repositório; É sem duvida um prazer te receber aqui! 
+  
+  <strong>
+  Tecnologias/competencias: JavaScript| React | Node.js | Express | MySQL | Prisma | HTML | CSS | TypeScript |  </strong>
 </p>
 
 ---
 
 ## 🌎 Sobre mim
-- 🔍 Sempre buscando ser a melhor versão de mim mesmo.  
-- 📘 Aprendizado contínuo: gosto de treinar conceitos diariamente com pequenos projetos.  
-- 🛠️ Paixão por resolver problemas reais com código.  
-
+ Você pode se perguntar: Qual é a mentalidade desse desenvolvedor? e o que ele está determinado a fazer com tudo o que aprendeu ao longo da carreira dele até agora? 
+  Eu Tenho em mente que poder, você pode usar para fazer duas coisas: o bem e o mal.
+  Eu, da minha parte, estou determinado a usar esse poder que os frameWorks, softSkills, bibliotecas, linguagens de programação, ferramentas de automação, IA e etc me dão...
+  para fazer o bem. Para usar minhas habilidades para trazer soluções para os outros. Para usar minhas qualidades para fortalecer e encorajar outros. Quando estiver em cargos de liderança jamais
+  usar a autoridade que me for dada, para ferir ou deixar que outros se sintam inferiores ou impotentes. Usar o que tenho de melhor para ajudar! Criando soluções reais e agregando valor as empresas e principalmente ao meu próximo.
 ---
 
 ## 🚀 Projetos Reais (Produção)
 Projetos que desenvolvi sozinho ou em equipe para resolver problemas concretos.
 
-- [Nome do Projeto 1](link) – Breve descrição (tecnologias usadas).  
-- [Nome do Projeto 2](link) – Breve descrição (tecnologias usadas).  
-- [Nome do Projeto 3](link) – Breve descrição (tecnologias usadas).  
+- [Elity Consultoria](link) – (JavaScript, React, Express, Node.js, Prisma, mySQL, N8N e Vite ). Esse foi o projeto que sem dúvida mais marcou meu desenvolvimento técnico pois me permitiu construir uma resolução real para um problema real. (freelancer)
+- [Elo vivo ](link) – (Express, React, mySQL, sequelize). Esse projeto foi incrível pois em grupo pude aprender muito com meus companheiros, me desafiar e em squad entregarmos juntos um do projetos mais lindos (Programadores do Amanhã)     
+- [CyberShield ](link) – (Express,mySQL,Sequelize, Jest e supertest ). Neste projeto pude em equipe construir um dos meus primeiros sistemas CRUD. Além de puder pela primeira vez mecher com ferramentas de testes automatizados (Programadores do Amanhã)     
 
 ---
 
 ## 🧑‍💻 Projetos de Estudo & Prática
 Exercícios, desafios e mini-projetos criados para fixar conceitos e experimentar tecnologias.
 
-- [Nome do Projeto A](link) – O que foi treinado (ex: hooks no React).  
-- [Nome do Projeto B](link) – O que foi treinado (ex: CRUD com Express + MySQL).  
-- [Nome do Projeto C](link) – O que foi treinado (ex: testes com Jest).  
+- [](link) – O que foi treinado (ex: hooks no React).  
+- [](link) – O que foi treinado (ex: CRUD com Express + MySQL).  
+- [](link) – O que foi treinado (ex: testes com Jest).  
 
 ---
 
@@ -47,10 +51,10 @@ Exercícios, desafios e mini-projetos criados para fixar conceitos e experimenta
 
 ## 📫 Onde me encontrar
 <p align="center">
-  <a href="link-do-linkedin">
+  < LinkedIn: a href="https://www.linkedin.com/in/andr%C3%A9-oliveira-do-nascimento-b245a9331/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a >E-mail: 1914andre@gmail.com
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
   </a>
 </p>
