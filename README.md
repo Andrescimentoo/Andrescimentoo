@@ -1,43 +1,56 @@
-<h1 align="center">André Olivera do Nascimento!👋</h1>
+<h1 align="center">👋 Olá, eu sou o André Oliveira do Nascimento</h1>
 
 <p align="center">
-  🔥 Desenvolvedor Full Stack <br />
-  💻 React | Node.js | Express | MySQL | Prisma <br />
-  🚀Buscando sempre ser a melhor versão possivel de mim mesmo.
-  Estando sempre atento as tendencias do mercado.
-  Carrego comigo um ditado que me permitiu sempre continuar aprendendo:
-  "Aquilo que você não sabe, não se preocupe, não tenha medo, pois aquilo que você de fato
-  não sabe....você apenas AINDA não sabe."
-  Com essa mentalidade se aprende qualquer coisa.
+  💻 Desenvolvedor <strong>Full Stack</strong> em crescimento <br/>
+  🚀 Focado em construir soluções reais com <strong>React | Node.js | Express | MySQL | Prisma</strong>
 </p>
 
 ---
 
-### 🧠 Habilidades em crescimento
-
-- ⚙️ Back-end com Express + nest.js, MySQL e ORM Prisma
-- ⚛️ Front-end com React e componentização eficiente
-- 🧪 Testes (superTest e Jest), APIs RESTful e organização de projetos
-
----
-
-### 📌 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-
-| [🔗 The Little Cart](https://github.com/Andrescimentoo/theLittleCart) | Um sistema full stack em desenvolvimento que visa automatizar o processo de designações de Testemunho público no carrinho | React + JS |
-| [🔗 CRUD Training](https://github.com/Andrescimentoo/CrudTraning) | CRUD básico com Express e banco de dados | Node.js + Express + MySQL |
-| [🔗 Mini Projeto Biblioteca](https://github.com/Andrescimentoo/MiniProjetoM4_LibraryAPI) | API de biblioteca com autenticação | Node.js + JWT + Sequelize |
+## 🌎 Sobre mim
+- 🔍 Sempre buscando ser a melhor versão de mim mesmo.  
+- 📘 Aprendizado contínuo: gosto de treinar conceitos diariamente com pequenos projetos.  
+- 🛠️ Paixão por resolver problemas reais com código.  
 
 ---
 
-### 📫 Contato
-[[LinkedIn](https://www.linkedin.com/in/andrenacimento?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[[Gmail](1914andre@gmail.com)
+## 🚀 Projetos Reais (Produção)
+Projetos que desenvolvi sozinho ou em equipe para resolver problemas concretos.
+
+- [Nome do Projeto 1](link) – Breve descrição (tecnologias usadas).  
+- [Nome do Projeto 2](link) – Breve descrição (tecnologias usadas).  
+- [Nome do Projeto 3](link) – Breve descrição (tecnologias usadas).  
 
 ---
 
-<div align="center">
-  Feito com 💙 por André – @Andrescimentoo
-</div>
+## 🧑‍💻 Projetos de Estudo & Prática
+Exercícios, desafios e mini-projetos criados para fixar conceitos e experimentar tecnologias.
+
+- [Nome do Projeto A](link) – O que foi treinado (ex: hooks no React).  
+- [Nome do Projeto B](link) – O que foi treinado (ex: CRUD com Express + MySQL).  
+- [Nome do Projeto C](link) – O que foi treinado (ex: testes com Jest).  
+
+---
+
+## 📚 Tecnologias & Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" />
+</p>
+
+---
+
+## 📫 Onde me encontrar
+<p align="center">
+  <a href="link-do-linkedin">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
+  </a>
+</p>
