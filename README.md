@@ -61,10 +61,6 @@ está em expansão, desejo que meu aprendizado nessa área seja da mesma maneira
 
 ## 📫 Onde me encontrar
 <p align="center">
-  < LinkedIn: a href="https://www.linkedin.com/in/andr%C3%A9-oliveira-do-nascimento-b245a9331/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a >E-mail: 1914andre@gmail.com
-    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
-  </a>
+  < LinkedIn: <a></LinkedIn:> "https://www.linkedin.com/in/andr%C3%A9-oliveira-do-nascimento-b245a9331"/> 
 </p>
+<p align="center"> E-mail: 1914andre@gmail.com
