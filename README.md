@@ -10,7 +10,7 @@
 
 ---
 
-## 🌎 Sobre mim
+## 👤 Sobre mim
  Você pode se perguntar: Qual é a mentalidade desse desenvolvedor? e o que ele está determinado a fazer com tudo o que aprendeu ao longo da carreira dele até agora? 
   Eu Tenho em mente que poder, você pode usar para fazer duas coisas: o bem e o mal.
   Eu, da minha parte, estou determinado a usar esse poder que os frameWorks, softSkills, bibliotecas, linguagens de programação, ferramentas de automação, IA e etc me dão...
@@ -21,18 +21,28 @@
 ## 🚀 Projetos Reais (Produção)
 Projetos que desenvolvi sozinho ou em equipe para resolver problemas concretos.
 
-- [Elity Consultoria](link) – (JavaScript, React, Express, Node.js, Prisma, mySQL, N8N e Vite ). Esse foi o projeto que sem dúvida mais marcou meu desenvolvimento técnico pois me permitiu construir uma resolução real para um problema real. (freelancer)
-- [Elo vivo ](link) – (Express, React, mySQL, sequelize). Esse projeto foi incrível pois em grupo pude aprender muito com meus companheiros, me desafiar e em squad entregarmos juntos um do projetos mais lindos (Programadores do Amanhã)     
-- [CyberShield ](link) – (Express,mySQL,Sequelize, Jest e supertest ). Neste projeto pude em equipe construir um dos meus primeiros sistemas CRUD. Além de puder pela primeira vez mecher com ferramentas de testes automatizados (Programadores do Amanhã)     
+- [Elity Consultoria](https://github.com/Andrescimentoo/elityConsultoria.git) – (JavaScript, React, Express, Node.js, Prisma, mySQL, N8N e Vite ). Esse foi o projeto que sem dúvida mais marcou meu desenvolvimento técnico pois me permitiu construir uma resolução real para um problema real. (freelancer)
+- [Elo vivo ](https://github.com/Debora-Laiss/Projeto_Final_M5.git) – (Express, React, mySQL, sequelize). Esse projeto foi incrível pois em grupo pude aprender muito com meus companheiros, me desafiar e em squad entregarmos juntos um do projetos mais lindos (Programadores do Amanhã)     
+- [CyberShield ](https://github.com/AndreyJustino/Cybershield-API.git) – (Express,mySQL,Sequelize, Jest e supertest ). Neste projeto pude em equipe construir um dos meus primeiros sistemas CRUD. Além de puder pela primeira vez mecher com ferramentas de testes automatizados (Programadores do Amanhã)     
 
 ---
 
-## 🧑‍💻 Projetos de Estudo & Prática
-Exercícios, desafios e mini-projetos criados para fixar conceitos e experimentar tecnologias.
+## 🧑‍💻🌎 Projetos de Estudo & Prática  
 
-- [](link) – O que foi treinado (ex: hooks no React).  
-- [](link) – O que foi treinado (ex: CRUD com Express + MySQL).  
-- [](link) – O que foi treinado (ex: testes com Jest).  
+Este Reposiório agrupará todos os conceitos de todas as tecnologias que eu aprender.
+
+Assim como o universo é formado por galáxias e sistemas solares a organização desse material de registros e 
+prática, foi baseado em como o universo é arquiteturado.
+
+A galáxia é representada por este repositório. os sistemas solares serão representados pelas pastas das linguagens de programação.
+cada linguagem de programação estudada ao longo da minha carreira será o sol de cada sistema. orbitado sempre pelos planetas-frameworks e bibliotecas
+Assim você poderá presenciar meu estudo contínuo e expansivo ao longo de toda a minha carreira como programador. Assim como o universo
+está em expansão, desejo que meu aprendizado nessa área seja da mesma maneira.
+
+- [Linguagens de programação](link)
+ 
+
+
 
 ---
 
